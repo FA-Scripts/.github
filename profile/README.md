@@ -1,12 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+# FA Scripts
 
-**Here are some ideas to get you started:**
+Modern resources for FiveM.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Documentation]() •
+[Discord](https://discord.gg/ePYv5V5b8w) •
+[Website](https://fa-scripts.tebex.io)
+
+</div>
+
+---
+
+## Our Philosophy
+
+We focus on:
+- Performance
+- User experience
+- Clean code
+- Long-term support
+- Developer-friendly APIs
+
+## Available Resources
+
+| Resource | Description | Status |
+|----------|-------------|---------|
+| fx_houserobbery | House robbery system | 🟡 Development |
+
+## Contributing
+
+This organization primarily hosts maintained releases and internal projects. Community contributions may be accepted on selected repositories.
+
+## Support
+
+For support, bug reports and suggestions, join our Discord server.
