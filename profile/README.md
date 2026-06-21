@@ -1,9 +1,9 @@
 <div align="center">
 
 # FA Scripts
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.imgur.com/sTpJ36k.gif" width="100%">
-</p>
+</p> -->
 
 Modern resources for FiveM.
 
